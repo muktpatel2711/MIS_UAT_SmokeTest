@@ -44,6 +44,22 @@ advance_search_xpath= "(//span[text()='Advanced Search'])[1]"
 advance_search_button_xpath = "//button[text()=' Search ']"
 
 
+#Search_sampark
+manage_sampark_xpath= "(//span[text()='Manage Sampark'])[1]"
+search_sampark_Karyakar_xpath="(//span[text()='Sampark Karyakar'])[1]"
+sampark_search_button = "//button[text()=' Search ']"
+sampark_count_xpath = "//span[text()='10']"
+
+#manageBusiness
+
+manage_business_xpath="(//span[text()='Manage Business'])[1]"
+search_business_xpath="(//span[text()='Search Business'])[1]"
+search_business_button_xpath = "//button[text()='Search']"
+business_count_xpath = "//span[text()='10']"
+
+
+
+
 
 
 
